@@ -15,4 +15,10 @@ print(sum)
 
 ```
 
+##### Task List
+
+- [X] This is step four of the tutorial
+- [ ] Take a nap
+- [ ] Go home
+
 This commit message is for headers in markdown
